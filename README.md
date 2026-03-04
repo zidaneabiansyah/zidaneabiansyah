@@ -2,9 +2,11 @@
 
 ###
 
-<h5 align="left">a developer who doesn't know what to do</h5>
+<h4 align="left">a developer who doesn't know what to do</h4>
 
 ###
+
+<h4 align="left">my favorite's tech stack</h4>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
