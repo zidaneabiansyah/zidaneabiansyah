@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Zidane Abiansyah</h1>
+<h2 align="left">Halo, Saya Zidane Abiansyah</h2>
 
 ###
 
