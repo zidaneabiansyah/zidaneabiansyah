@@ -32,7 +32,6 @@
   <img src="https://streak-stats.demolab.com?user=zidaneabiansyah&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<h5>#semogakonsistensampaisukses</h5>
-<h5>#inginjadiprogrammernamunengganngoding</h5>
+<h5>#semogakonsistensampaisukses #inginjadiprogrammernamunengganngoding</h5>
 
 ###
